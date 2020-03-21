@@ -1,0 +1,11 @@
+C:\Users\Savelya\Desktop\c#\fifth_lab\obj\Debug\netcoreapp3.1\fifth_lab.csprojAssemblyReference.cache
+C:\Users\Savelya\Desktop\c#\fifth_lab\obj\Debug\netcoreapp3.1\fifth_lab.AssemblyInfoInputs.cache
+C:\Users\Savelya\Desktop\c#\fifth_lab\obj\Debug\netcoreapp3.1\fifth_lab.AssemblyInfo.cs
+C:\Users\Savelya\Desktop\c#\fifth_lab\bin\Debug\netcoreapp3.1\fifth_lab.exe
+C:\Users\Savelya\Desktop\c#\fifth_lab\bin\Debug\netcoreapp3.1\fifth_lab.deps.json
+C:\Users\Savelya\Desktop\c#\fifth_lab\bin\Debug\netcoreapp3.1\fifth_lab.runtimeconfig.json
+C:\Users\Savelya\Desktop\c#\fifth_lab\bin\Debug\netcoreapp3.1\fifth_lab.runtimeconfig.dev.json
+C:\Users\Savelya\Desktop\c#\fifth_lab\bin\Debug\netcoreapp3.1\fifth_lab.dll
+C:\Users\Savelya\Desktop\c#\fifth_lab\bin\Debug\netcoreapp3.1\fifth_lab.pdb
+C:\Users\Savelya\Desktop\c#\fifth_lab\obj\Debug\netcoreapp3.1\fifth_lab.dll
+C:\Users\Savelya\Desktop\c#\fifth_lab\obj\Debug\netcoreapp3.1\fifth_lab.pdb
